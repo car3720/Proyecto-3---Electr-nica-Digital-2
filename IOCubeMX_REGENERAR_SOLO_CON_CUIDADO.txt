@@ -1,0 +1,1 @@
+ESTA PLANTILLA NO DEBE REGENERARSE DESDE EL IOC ANTIGUO. El proyecto esta preparado para compilar con STM32CubeIDE sin CubeMX. El esquema antiguo venia configurado con PC0 como LCD_D7; este firmware lo corrige a PA8 y utiliza TIM2 por registros.
